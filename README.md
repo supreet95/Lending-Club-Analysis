@@ -1,4 +1,4 @@
-# Lending-Club-Analysis
+# Lending Club Loan Performance Analysis
 
 Loan performance analysis for Lending Club Corporation
 Files contain complete loan data for all loans issued through the 2007-2015
